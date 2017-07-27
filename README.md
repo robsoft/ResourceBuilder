@@ -3,6 +3,9 @@ Delphi based tool for producing resources (FONT AWESOME based)
 
 http://fontawesome.io
 
+parse data from https://github.com/FortAwesome/Font-Awesome/blob/master/less/variables.less
+
+
 install the FontAwesome true type font.
 if there are newer icons that you're not seeing, update the fa_lookups.ini file (and share back here!)
 
