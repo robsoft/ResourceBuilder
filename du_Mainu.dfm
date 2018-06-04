@@ -74,8 +74,8 @@ object fmMain: TfmMain
     object lblSample: TLabel
       Left = 15
       Top = 311
-      Width = 148
-      Height = 61
+      Width = 506
+      Height = 402
       Caption = #61674'  '#61669
       Font.Charset = ANSI_CHARSET
       Font.Color = clWindowText
@@ -133,7 +133,7 @@ object fmMain: TfmMain
       Left = 218
       Top = 254
       Width = 81
-      Height = 27
+      Height = 30
       Font.Charset = DEFAULT_CHARSET
       Font.Color = clWindowText
       Font.Height = -19
